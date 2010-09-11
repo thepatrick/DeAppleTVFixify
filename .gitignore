@@ -1,0 +1,15 @@
+.DS_Store
+build
+target
+*~.nib
+*.mode1v3
+*.mode1
+*.mode2
+*.mode2v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.perspectivev3s
+*.svn
+*.xcodeproj/**/*.xcuserdatad
+*.xcodeproj/**/**/*.xcuserdatad
